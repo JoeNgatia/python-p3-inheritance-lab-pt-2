@@ -1,5 +1,9 @@
 class Student:
     pass
+    def helo(self):
+        print("Hey there! I'm so excited to learn stuff.")
 
-class ChattyStudent(Student):
-    pass
+    def raise_hand(self):
+        print("Pick Me!")
+
+
